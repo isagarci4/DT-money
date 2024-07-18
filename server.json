@@ -1,20 +1,36 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000,
-            "createdAt": "2024-07-16T20:48:54.667Z"
-        },
-        {
-            "id": 2,
-            "description": "Hambúrguer",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 50,
-            "createdAt": "2024-07-16T20:30:54.667Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-07-16T20:48:54.667Z"
+    },
+    {
+      "id": "2",
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2024-07-16T20:30:54.667Z"
+    },
+    {
+      "id": "749b",
+      "description": "Curso",
+      "category": "Educação ",
+      "price": 1000,
+      "type": "outcome",
+      "createdAt": "2024-07-18T19:19:26.994Z"
+    },
+    {
+      "id": "9685",
+      "description": "Lettering",
+      "category": "Venda",
+      "price": 1000,
+      "type": "income",
+      "createdAt": "2024-07-18T19:37:23.329Z"
+    }
+  ]
 }
